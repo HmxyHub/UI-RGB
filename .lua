@@ -1,4 +1,3 @@
---เปลี่ยน logo ได้ที่ บรรทัด 140
 if game.CoreGui:FindFirstChild("UICopied") then
     game.CoreGui:FindFirstChild("UICopied"):Destroy()
 end
@@ -137,7 +136,7 @@ Imagelogo.BackgroundTransparency = 1.000
 Imagelogo.Position = UDim2.new(0, 8, 0, 9)
 Imagelogo.Size = UDim2.new(0, 25, 0, 25)
 Imagelogo.ZIndex = 2
-Imagelogo.Image = "rbxassetid://8663815150" --เปลี่ยนรูป Logo ตรงนี้
+Imagelogo.Image = "rbxassetid://8663815150"
 Imagelogo.ImageRectOffset = Vector2.new(50, 800)
 Imagelogo.ImageRectSize = Vector2.new(50, 50)
 
